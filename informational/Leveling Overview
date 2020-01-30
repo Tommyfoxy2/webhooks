@@ -1,0 +1,90 @@
+{
+  "embeds": [
+    {
+      "color": 14516079,
+      "image": {
+        "url": "https://i.imgur.com/aMqG6Fz.png"
+      }
+    },
+    {
+      "title": "Leveling System Overview",
+      "color": 14516079,
+      "description": "By talking in our text channels and voice chat you earn XP all the time which levels you up and gives you new roles overtime! Here's an overview of our current 4 branches available.",
+      "image": {
+      "url": "https://i.imgur.com/sCJ6mOn.png"
+      }, 
+      "fields": [
+        {
+          "name": "Hero Course",
+          "value": "**LV 1:**     Class 1A\n**LV 5:**    Class 2A\n**LV 15:**  Class 3A\n**LV 35:**  Intern",
+          "inline": true
+        },
+        {
+          "name": "Villains",
+          "value": "**LV 1:**     League of Villains\n**LV 5:**    Vanguard Squad\n**LV 15:**  Japan's Most Wanted\n**LV 35:**  Internationally Wanted",
+          "inline": true
+        },
+        {
+          "name": "Side Character Branches",
+          "value": "Who says being a side character isn't important too?",
+          "inline": false
+        },
+        {
+          "name": "I-Island",
+          "value": "**LV 1:**     Academy\n**LV 5:**    Assistant\n**LV 15:**  Scientist\n**LV 35:**  Director",
+          "inline": true
+        },
+        {
+          "name": "Support Course",
+          "value": "**LV 1:**    Class 1F\n**LV 5:**   Class 1G\n**LV 15:** Class 1E\n**LV 35:**  Intern",
+          "inline": true
+        },
+        {
+          "name": "Speciality Branches",
+          "value": "Don't want to be mainstream? Why not try these out!",
+          "inline": false
+        },
+        {
+          "name": "Liberation Army",
+          "value": "**LV 1:**     Scout\n**LV 5:**    Officer\n**LV 15:**  General    \n**LV 35:**  Elite",
+          "inline": true
+        },
+        {
+          "name": "Quirkless Army",
+          "value": "**LV 1:**    Quirkless\n**LV 5:**    Still Quirkless\n**LV 15:**  Hopelessly Quirkless    \n**LV 35:**  This Skittle is brighter \nthan my future",
+          "inline": true
+        },
+        {
+          "name": "Latest Branches",
+          "value": "Newer than our emotes",
+          "inline": false
+        },
+        {
+          "name": "Shiketsu High (NEW!)",
+          "value": "**LV 1:**     Shiketsu High\n**LV 5:**    First Year\n**LV 15:**  Second Year    \n**LV 35:**  Third Year",
+          "inline": true
+        },
+        {
+          "name": "Police (NEW!)",
+          "value": "**LV 1:**    Sergeant\n**LV 5:**    Commissioner\n**LV 15:**  Detective    \n**LV 35:**  Deputy",
+          "inline": true
+        }
+      ]
+    },
+        {
+      "title": "My Hero Academia Origin Story: *You*",
+      "color": 16766720,
+      "description": "People who reach level 100 can request a custom character role for themselves. For example one named after their OC, or favourite character from the show!",
+      "image": {
+      "url": "https://i.imgur.com/sCJ6mOn.png"
+      }, 
+      "fields": [
+        {
+          "name": "Requirement:",
+          "value": "Level 100.",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}

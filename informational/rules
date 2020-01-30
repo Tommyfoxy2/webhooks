@@ -1,0 +1,55 @@
+{
+  "embeds": [
+        {
+      "color": 1,
+      "image": {
+      "url": "https://images-ext-2.discordapp.net/external/hyR8KyBerj-kvRPgCmWk2IEFjLBZSaY9zr277FcdPvE/https/i.imgur.com/5tHm4Ob.png?width=1441&height=395"
+      }, 
+      "footer": {
+      }
+    },
+    {
+      "title": "Rules and Guidelines",
+      "color": 1,
+      "description": "Please be sure to read this info before starting to chat, it contains very important information.",
+      "image": {
+      "url": "https://i.imgur.com/sCJ6mOn.png"
+      }, 
+      "footer": {
+      "text": "Any further issue not stated here is up to the discretion of moderators and these rules are subject to change at anytime without prior notice."
+      },
+      "fields": [
+        {
+          "name": "Legal",
+          "value": "Abide by Discords [Terms of Service](https://discordapp.com/terms) and [Guidelines](https://discordapp.com/guidelines)",
+          "inline": false
+        },
+        {
+          "name": "Section 1",
+          "value": "```MARKDOWN\n#1 No spam\n#2 No Foul/Inappropriate content\n- No swearing, offensive or inappropriate messages. If it's filtered, do not evade. Evading will result in harsher action.\n#3 No advertising\n- Includes inviting people to other servers, social media accounts etc\n- If you are invited by someone who you do not know to another server, report it to Staff immediately.\n- In addition to the person who sent the invite, people who fail to report and join are at risk of being banned themselves.\n#4 Impersonation\n- Attempting to impersonate a Staff member (changing nickname and pfp to match that of a staff member for example) will result in a kick or ban\n#5 Appeals and Issues\n- Do not discuss staff actions in the channels or staff DMs.\n- If you wish to contest an infraction or discuss a staff action submit an appeal with the link on the bottom.\n- Alt accounts will be banned.```",
+          "inline": false
+        },
+        {
+          "name": "Section 1.1",
+          "value": "[Click here to appeal warns and bans issued against your account.](https://forms.gle/S41XDsUf3g5CLvc8A)\n** **",
+          "inline": false
+        },
+        {
+          "name": "Section 2",
+          "value": "```MARKDOWN\n#1 No awkward topics\n- Religion, politics, flirting, etc.\n- This includes anything controversial as well as anything regarding suicide.\n- Staff members are not counselors if necessary seek professional help.\n#2 Use only English\n- Unless you are quoting text in the context of the series.\n#3 Channels\n- Abide by the channel descriptions and pinned rules if applicable.\n#4 No public drama and roleplay\n- Solve any issues in private or DM a moderator.\n- No 'house' roleplay. This includes common ones like 'wives/husbands', ERP, Marriages and EDating.\n- Any inappropriate DMs from users should be reported to staff as soon as possible.```",
+          "inline": false
+        }
+      ]
+    },
+    {
+      "title": "Information",
+      "color": 1,
+      "description": ":small_blue_diamond: [[Link](https://discord.gg/myheroacademia)] **Server Invite**\n:small_blue_diamond: [[Link](https://bokunoheroacademia.fandom.com/wiki/My_Hero_Academia_Wiki)] **Wiki Link**\n:small_blue_diamond: [[Link](https://www.funimation.com/shows/my-hero-academia/)] **Funimation**\n:small_blue_diamond: [[Link](https://www.crunchyroll.com/my-hero-academia)] **Crunchyroll**\n:small_blue_diamond: [[Link](http://www.viz.com/shonenjump/chapters/my-hero-academia)] **VIZ**\n:small_blue_diamond: [[Link](http://mangaplus.shueisha.co.jp/#/titles/100017)] **MangaPlus**\n:small_blue_diamond: [[Link](https://animeservers.website/)] **AnimeServers**",
+      "footer": {
+      },
+            "image": {
+      "url": "https://i.imgur.com/sCJ6mOn.png"
+      }
+    }
+  ]
+}

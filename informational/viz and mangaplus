@@ -1,0 +1,27 @@
+{
+  "content": "<@&ROLEID>",
+  "embeds": [
+        {
+      "title": "The new chapter is officially released on Viz & Manga Plus!",
+      "description": "Read Chapter NUMBER on VIZ or MP for Free on Mobile and Web! You can also discuss the latest chapter in <#CHANNEL> now.",
+      "color": 16711684,
+      "thumbnail": {
+      "url": "https://i.imgur.com/8zamfCT.png"},
+      "footer": {
+      "text": "Want to read the chapters on Mobile? The site linked above has official apps you can use for free!"
+      },
+       "fields": [
+        {
+          "name": "VIZ (Free)",
+          "value": "[**Web**](https://www.viz.com/)",
+          "inline": true
+        },
+          {
+          "name": "Manga Plus (Free)",
+          "value": "[**Web**](https://mangaplus.shueisha.co.jp/) | [**Android**](https://play.google.com/store/apps/details?id=jp.co.shueisha.mangaplus) | [**IOS**](https://apps.apple.com/app/id1442476536)",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}

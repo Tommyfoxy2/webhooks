@@ -1,0 +1,20 @@
+{
+"embeds": [
+{
+"color": 2443938,
+"image": {"url": "https://i.imgur.com/WWJOPHp.png"}
+},
+{
+    "title": "Title text",
+    "color": 2443938,
+    "description": "Some great filler text",
+   "image": {"url": "https://i.imgur.com/sCJ6mOn.png"},
+   "fields": [
+     {
+     "name": "Field 1",
+     "value": "Do stuff!"
+    }
+   ]
+  }
+ ]
+}

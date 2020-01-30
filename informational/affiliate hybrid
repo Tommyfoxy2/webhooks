@@ -1,0 +1,84 @@
+{
+  "embeds": [
+    {
+      "title": "TenseiSlime",
+      "description": "Lonely thirty-seven-year-old Mikami Satoru is stuck in a dead-end job, unhappy with his mundane life, but after dying at the hands of a robber, he awakens to a fresh start in a fantasy.",
+      "color": 6200806,
+      "thumbnail": {
+        "url": "https://i.imgur.com/fKh0CD7.gif"
+      },
+      "footer": {
+       "text": "Representative: Mayday#0025 (189205340145844225)"
+      },
+      "fields": [
+        {
+          "name": "Links",
+          "value": "[Click/Tap to join](https://discord.gg/43s7fV6) | [AnimeServers Listing](https://animeservers.website/s/tenseislime/)"
+        }
+      ]
+    },
+       {
+      "title": "Assassination Classroom Wiki",
+      "description": "Forget about homework and pop quizzes. Class 3E has a far more important assignment: kill their teacher before the end of the year!",
+      "color": 6200806,
+      "thumbnail": {
+        "url": "https://i.imgur.com/6uk9I6k.png"
+      },
+      "footer": {
+       "text": "Representative: NewtroPhil#9775 (244178649459326978)"
+      },
+      "fields": [
+        {
+          "name": "Links",
+          "value": "[Click/Tap to join](https://discord.gg/7qHJCEE) | [AnimeServers Listing](https://animeservers.website/s/assassination-classroom/)"
+        }
+      ]
+    },
+       {
+      "title": "Mushoku Tensei",
+      "description": "A 34-year-old Japanese NEET is kicked out of his house following the death of his parents. He intercepts a speeding truck heading towards a group of teenagers and pulls one of them out of the way before dying.",
+      "color": 6200806,
+      "thumbnail": {
+        "url": "https://i.imgur.com/Xmrr7cP.png"
+      },
+      "footer": {
+       "text": "Representative: Haru-san#4740 (416821543457521669)"
+      },
+      "fields": [
+        {
+          "name": "Links",
+          "value": "[Click/Tap to join](https://discord.gg/888Ef8T) | [AnimeServers Listing](https://animeservers.website/s/mushoku-tensei/)"
+        }
+      ]
+    },
+       {
+      "title": "Wifue Nation",
+      "description": "Imagine a place, or a heaven if you want the truth, where you get to appreciate the lovely Waifus. From your daily hero quests, to your love comedy getting messed up as much as possible.",
+      "color": 9681382,
+      "thumbnail": {
+        "url": "https://images-ext-1.discordapp.net/external/2LHSMnrTcro_r_KE_Yop9pL4Wp2o9lKMwwFaKuYfYNQ/https/i.imgur.com/d2nhsNL.png"
+      },
+      "footer": {
+       "text": "Representative: Father#1877 (414249367197712384)"
+      },
+      "fields": [
+        {
+          "name": "Links",
+          "value": "[Click/Tap to join](https://discord.gg/D8Kv283) | [AnimeServers Listing](https://animeservers.website/s/waifu-nation/)"
+        }
+      ]
+    },
+        {
+      "title": "AnimeServers.website",
+      "description": "Find servers for series and manga you're interested in and meet fellow fans and more!\nhttps://animeservers.website/",
+      "color": 3424914,
+      "thumbnail": {
+        "url": "https://i.imgur.com/0RJiR7Y.png"
+      },
+      "footer": {
+       "icon_url": "https://i.imgur.com/LcL7BF5.png",
+       "text": "Creator: Tommyfoxy2#0001 (104425482757357568)"
+      }
+    }
+  ]
+}
